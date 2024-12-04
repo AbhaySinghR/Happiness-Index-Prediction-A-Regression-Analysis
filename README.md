@@ -1,4 +1,4 @@
-# Happiness Index Prediction: A Regression Analysis Approach
+# Happiness Index Prediction: A Regression Analysis
 
 ## Overview
 This project aims to analyze, visualize, and model happiness data using regression techniques. The primary goal is to predict the **Life Ladder (Happiness Score)** of a country based on multiple socio-economic and psychological factors, such as GDP, social support, life expectancy, and perceptions of corruption. 
